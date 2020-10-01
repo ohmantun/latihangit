@@ -1,1 +1,2 @@
 Ini latihan GIT
+editan pertama
