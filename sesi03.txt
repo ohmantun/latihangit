@@ -1,4 +1,3 @@
 Ini latihan GIT
 editan pertama
 penambahan baru
-dihapus
